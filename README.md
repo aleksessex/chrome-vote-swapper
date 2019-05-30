@@ -1,10 +1,9 @@
 # chrome-vote-swapper
 A simple Chrome plugin demonstrating DOM-based vote swapping on an online voting website.
 
-
 ## How to install
 
-1. Download the `vote-swapper-plugin/` directory to your computer.
+1. Download the `vote-swapper-plugin/` directory
 2. Open Chrome and type `chrome://extensions` in the address bar
 3. Click to enable the "Developer Mode" toggle switch
 4. Click "Load unpacked," and specify the path to the `vote-swapper-plugin/` directory
