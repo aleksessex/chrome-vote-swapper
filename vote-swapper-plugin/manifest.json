@@ -1,0 +1,1 @@
+{"manifest_version": 2,"name": "Vote Swapper","version": "1.0.1","description": "test","content_scripts": [{"matches": ["*://*/*"],"js": ["swap-candidate.js"],"run_at": "document_end"}]}
