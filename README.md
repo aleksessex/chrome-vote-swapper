@@ -13,7 +13,7 @@ A simple Chrome plugin demonstrating DOM-based vote swapping on an online voting
 
 The vote swapper plugin traverses the DOM looking for instances of text notes that matches the targets, and swaps them. 
 
-Specifically it swaps the string "Cassandra De Rolo" with the string "Fernanda Rodriguez" and vice versa on the Simply Voting [online voting demo website](demo.simplyvoting.com).
+Specifically it swaps the string "Cassandra De Rolo" with the string "Fernanda Rodriguez" and vice versa on the Simply Voting [online voting demo website](https://demo.simplyvoting.com).
 
 ## How to customize
 
