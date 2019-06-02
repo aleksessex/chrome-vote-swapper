@@ -17,3 +17,7 @@ Specifically it swaps the string "Cassandra De Rolo" with the string "Fernanda R
 ## How to customize
 
 Modify variables `a` and `b` in `swap-candidate.js` to whichever strings you wish to swap and update the `document.URL.indexOf` to the URL of the site you wish to test on.
+
+
+## Acknowledgements 
+The idea of an in-browser vote swapping plugin was inspired by [Kev Creechan](https://github.com/RawInfoSec/chrome-ext-poc).
